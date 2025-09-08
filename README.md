@@ -66,7 +66,7 @@ A comprehensive, AI-powered desktop application for statistical analysis, machin
 - **Smart Emoji Integration**: Contextually relevant emojis for better user experience
 - **Conversation Flow Tracking**: Monitors topic transitions and user preferences
 
-## 🛠 **Technical Stack**
+##  **Technical Stack**
 
 ### **Core Technologies**
 - **GUI Framework**: PySide6 (Qt for Python) with modern UI components
