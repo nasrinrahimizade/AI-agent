@@ -15,7 +15,7 @@ A comprehensive, AI-powered desktop application for statistical analysis, machin
 - **Performance Optimization**: Cached analysis results and efficient data processing
 - **Unified Parser System**: Advanced natural language command parsing and routing
 
-## 🏗 **Architecture Overview**
+##  **Architecture Overview**
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -87,13 +87,13 @@ A comprehensive, AI-powered desktop application for statistical analysis, machin
 
 ```
 Statistical-AI-Agent/
-├── 📱 gui/                          # User Interface Layer
+├──  gui/                          # User Interface Layer
 │   ├── main_window.py               # Main application window
 │   ├── views/                       # Different analysis views
 │   │   ├── chat_view.py            # AI chat interface with integrated plots
 │   │   └── help_view.py            # Help and documentation
 │   └── resources/                   # UI resources and icons
-├── 🧠 core/                         # Core AI and Business Logic
+├──  core/                         # Core AI and Business Logic
 │   ├── transformers_backend.py      # AI chatbot with Llama-3.2-1B
 │   ├── unified_parser.py           # Advanced natural language command parser
 │   ├── request_handler.py          # Request routing and handling
@@ -102,16 +102,16 @@ Statistical-AI-Agent/
 │   ├── data_loader.py              # Data ingestion and preprocessing
 │   ├── ml_plotter.py               # Advanced plotting engine integration
 │   └── prompt.json                 # Enhanced AI prompt system
-├── 🤖 ML/                          # Machine Learning Layer
+├──  ML/                          # Machine Learning Layer
 │   ├── ai_agent_backend.py         # Unified AI agent interface
 │   ├── statistical_engine.py       # Statistical analysis engine
 │   ├── plotting_engine.py          # ML-powered visualization
 │   ├── feature_matrix.csv          # Dataset for analysis
 │   └── requirements.txt            # ML dependencies
-├── 🎯 Llama-3.2-1B/               # AI model directory
-├── 📋 requirements.txt             # Main project dependencies
-├── 🚀 main.py                      # Application entry point
-└── 📖 README.md                    # This documentation
+├──  Llama-3.2-1B/               # AI model directory
+├──  requirements.txt             # Main project dependencies
+├──  main.py                      # Application entry point
+└──  README.md                    # This documentation
 ```
 
 ## **Quick Start**
@@ -140,7 +140,7 @@ python main.py
 3. **Generate Plots**: Request visualizations through conversation
 4. **Get Insights**: Receive professional statistical analysis
 
-## 💬 **AI Commands & Examples**
+##  **AI Commands & Examples**
 
 ### ** Plot Generation**
 ```
